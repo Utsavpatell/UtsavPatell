@@ -22,7 +22,7 @@ const Contact = () => {
           <a href='https://www.linkedin.com/in/utsav-patel-796495307?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app' className="items">
             <CiLinkedin className='icons' />
           </a>
-          <a href='https://github.com/' className="items">
+          <a href='https://github.com' className="items">
             <FaGithub className='icons' />
           </a>
           <a href='mailto:utsavother@gmail.com' className="items">
