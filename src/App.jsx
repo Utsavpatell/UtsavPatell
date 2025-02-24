@@ -1,5 +1,4 @@
 import React, { useEffect } from 'react';
-import Head from 'next/head';
 import Navbar from './Componnets/Navbar';
 import Home from './Componnets/Home';
 import Certificates from './Componnets/Certificates';
@@ -19,12 +18,6 @@ const App = () => {
   return (
 
     <>
-      <Head>
-        <title>Utsav Patel - Official Website</title>
-        <meta name="description" content="Welcome to the official website of Utsav Patel. Explore my projects, blogs, and portfolio." />
-        <meta name="keywords" content="Utsav Patel, Computer Engineer, Machine Learning, Android Developer" />
-        <meta name="author" content="Utsav Patel" />
-      </Head>
       <Navbar />
       <div className="container">
         <Home />
