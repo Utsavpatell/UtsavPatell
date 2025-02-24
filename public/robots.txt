@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://utsavpatel.vercel.app/sitemap.xml
